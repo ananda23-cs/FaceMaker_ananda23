@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FaceMaker</string>
+
+    <string name="redseekbar">Red</string>
+    <string name="greenseekbar">Green</string>
+    <string name="blueseekbar">Blue</string>
+
+    <string name="button_name">Random Face</string>
+
+    <string name="hair">Hair</string>
+    <string name="eyes">Eyes</string>
+    <string name="skin">Skin</string>
+    <string name="mouth">Mouth</string>
+
+    <string-array name="hairstyles">
+        <item>Bald</item>
+        <item>Bowl Cut</item>
+        <item>Long</item>
+        <item>Short</item>
+    </string-array>
+</resources>
